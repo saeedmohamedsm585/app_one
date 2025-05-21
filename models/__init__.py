@@ -1,0 +1,1 @@
+from . import property,owner,tag,sale_order_inhertance,client,res_partner_inhertance,property_history,account_move_inhertance
